@@ -1,0 +1,11 @@
+How to run the Program!!
+
+1. Install the requirements.txt:
+    pip install -r requirements.txt
+
+2. Run the manage.py
+    python manage.py runserver
+
+3. Open localhost:8000/ in the browser.
+
+Enjoy the Program!!!!
